@@ -1,0 +1,411 @@
+/* body{
+    margin: 0;
+    
+}
+
+.first-container{
+    
+    
+    background:url(drone.webp) no-repeat;
+    height: 650px;
+    margin: 0;
+    padding: 0;
+    
+    
+    background-size: 100% 100%;
+
+}
+
+.trans-box{
+
+  background-color:#FFDE00;
+  height: 700px;
+  opacity: 0.4;
+  position: relative;
+  bottom:700px;
+  font-size:100px ;
+  font-family: Courgette;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.p1{
+ font-size:50px ;
+  font-family: Courgette;
+  
+}
+
+.first-img{
+  width: 400px;
+  position: relative;
+  bottom: 1400px;
+  left:500px;
+  
+}
+
+.second-img{
+
+  position: relative;
+  bottom: 1150px;
+  
+  
+}
+
+.third-img{
+  position: relative;
+  bottom: 1480px;
+  left:400px
+  
+
+}
+
+.fourth-img{
+  position: relative;
+  bottom:1600px;
+  
+  width: 300px;
+
+}
+
+.pic-1{
+  width: 300px;
+  height:300px ;
+} */
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#B6FFFA;
+  
+}
+
+.first-container {
+  background: url(drone.webp) no-repeat;
+  height: 730px;
+  background-size: 100% 100%;
+}
+
+.second-container{
+  background-color:#F1EFEF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 0 0 50px 0;
+  border: solid;
+  border-color:beige ;
+
+}
+
+.trans-box {
+  background-color:purple;
+  height: 730px;
+  opacity: 0.2;
+  font-size: 100px;
+  font-family: Courgette;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: -780px; /*Adjust this value */
+  position: relative;
+  top: 50px;
+}
+
+.p1 {
+  font-size: 50px;
+  font-family: Courgette;
+}
+
+.p2{
+  position: relative;
+  top: 25px;
+}
+.first-img {
+  width: 400px;
+  margin: 0 auto; /* Center the image horizontally */
+  margin-top:-900px; /* Adjust this value */
+  margin-left: 600px;
+  position: relative;
+  bottom: 350px;
+}
+
+.second-img {
+  margin-top: -1150px; /* Adjust this value */
+  position: relative;
+  bottom:100px;
+  margin-left:500px ;
+
+}
+
+.third-img {
+  margin: 0 auto; /* Center the image horizontally */
+  margin-top: -1480px; /* Adjust this value */
+  position: relative;
+  margin-left:500px ;
+
+}
+
+.fourth-img {
+  margin-top: -1600px; /* Adjust this value */
+  width: 300px;
+  position: relative;
+  bottom:130px;
+  margin-left:700px ;
+}
+td{
+  padding: 0 10px 5px 28px;
+}
+.pic-one {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+
+
+.pic-one:hover{
+  width: 400px;
+  height: 400px;
+}
+
+.pic-two {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.pic-two:hover{
+  width: 400px;
+  height: 400px;
+}
+
+.pic-three {
+  width: 300px;
+  height:300px;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.pic-three:hover{
+  width: 400px;
+  height: 400px;
+}
+
+.pic-four {
+  width: 300px;
+  height:300px;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.pic-four:hover{
+  width: 400px;
+  height: 400px;
+}
+
+.pic-five{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+}
+
+.pic-five:hover{
+  
+     width : 400px;
+    height: 400px;
+  
+  
+}
+
+.pic-six{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-six:hover{
+  width : 400px;
+  height: 400px;
+
+}
+.pic-seven{
+  width: 300px;
+  height: 300px;
+  margin: 0 auto; /* Center the image horizontally */
+
+
+}
+
+.pic-seven:hover{
+
+  width : 400px;
+  height: 400px;
+  
+}
+
+.pic-eight{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-eight:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-nine{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-nine:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-ten{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-ten:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-eleven{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-eleven:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-twelve{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-twelve:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-thirteen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-thirteen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-fourteen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-fourteen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-fifteen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-fifteen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-sixteen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-sixteen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-seventeen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-seventeen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-eighteen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-eighteen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-nineteen{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-nineteen:hover{
+  width : 400px;
+  height: 400px;
+
+}
+
+.pic-twenty{
+  width: 300px;
+  height: 305px;
+  margin: 0 auto; /* Center the image horizontally */
+
+}
+
+.pic-twenty:hover{
+  width : 400px;
+  height: 400px;
+
+}
